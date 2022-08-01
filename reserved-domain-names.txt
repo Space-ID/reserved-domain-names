@@ -45,7 +45,7 @@ bundle
 galler
 gallernft
 bnft
-financenftmarketplace
+binancenftmarketplace
 bnftmarketplace
 cz
 heyi
