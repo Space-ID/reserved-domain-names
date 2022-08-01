@@ -10,6 +10,8 @@ crypto
 satoshi
 sid
 spaceid
+did
+id
 binance
 bbinance
 binnace
