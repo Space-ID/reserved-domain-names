@@ -30,6 +30,7 @@ binanceinvestment
 binancelabs
 binancemarketing
 binancemoon
+binancenft
 binancenftmarketplace
 binancenorthamerica
 binanceoption
@@ -147,7 +148,6 @@ nodereal
 openmeta
 overeality
 oxalus
-oxalus
 oxaluswallet
 p12
 pancake
@@ -156,6 +156,7 @@ pear
 peardao
 pixelsweeper
 PlanetZUUD
+polychain
 port3
 port3network
 project12
@@ -163,8 +164,6 @@ projectgalaxy
 rareboard
 reel8
 relation
-relation
-relationlabs
 relationlabs
 rewardsbunny
 rtfkt
@@ -196,5 +195,6 @@ wombatexchange
 wow
 xantus
 yg
+zapper
 zhaochangpeng
 ziggyverse
